@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Dog Watcher",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Retc.aternos.me",
+    "port": 54327,
     "version": "1.20.1",
     "try-creative": false
   },
