@@ -1,7 +1,7 @@
 {
   "name": "Dog Watcher",
   "bot-account": {
-    "username": "Dog Watcher",
+    "username": "DogWatcher",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "bark bark bark"
       ]
     },
     "chat-log": true,
@@ -73,8 +71,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1558907415494266994/42EGhmhCpHUsf3ZgoMB7s8X_3TAd3yDpI0Hj5-0NB7eVym9aHC3bt-JdaEZtcXofNVWz",
     "events": {
       "connect": true,
       "disconnect": true,
