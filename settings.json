@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Retc.aternos.me",
-    "port": 54327,
+    "ip": "escrowsmp.mcsh.gg",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
